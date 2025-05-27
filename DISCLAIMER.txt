@@ -1,0 +1,11 @@
+DISCLAIMER
+
+The resources and links provided in this repository are intended solely for educational, research, and informational purposes.
+
+All copyrights and intellectual property rights belong to their respective owners.  
+This repository does not own or claim any rights to the shared materials.
+
+Users are advised to delete the downloaded content within 24 hours.  
+If you intend to use any of the resources for commercial purposes, please obtain proper authorization from the original copyright holders.
+
+If any content in this repository violates your rights, please open an issue to request removal. The relevant content will be taken down promptly upon verification.
